@@ -20,7 +20,6 @@
   * 🌱 Worked with service-based and product-based organisation.
   * 🚀 Fully interested in cutting-edge technologies including, Spring Boot, Microservices, Flutter, and sometimes with
   embedded(electronic items) as well.
-
   <div align="left">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </div>
@@ -39,8 +38,7 @@
     <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="50" height="50" alt="BootStrap"/>
     <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="50" alt="JavaScript"/>
     <img src="https://www.svgrepo.com/show/303230/angular-icon-logo.svg" width="50" height="50" alt="Angular"/>
-    <img src="" width="50" height="50" alt=""/>
-    <img src="" width="50" height="50" alt=""/>
+    <img src="https://www.svgrepo.com/show/373604/flutter.svg" width="50" height="50" alt="Flutter"/>
 	
 	<br/>
 	<strong>Databases:</strong><br/>
