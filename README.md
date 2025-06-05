@@ -20,7 +20,7 @@
 I'm a passionate and results-driven **Full Stack Developer** with over **8 years of experience** in building scalable applications using modern technologies. My work spans across both **service-based** and **product-based organizations**, giving me a holistic view of software development.
 
 - 🎓 Expertise in **Spring Framework**, **Spring Boot**, and related backend technologies.
-- 💻 Skilled in **Front-End Development** using Angular, JavaScript, HTML5, CSS3, and Flutter.
+- 💻 Skilled in **Front-End Development** using Angular, JavaScript, HTML, CSS, BootStrap, and Flutter.
 - 🔗 Strong understanding of **Microservices Architecture** and RESTful APIs.
 - 🛠️ Hands-on experience with **DevOps tools** like Git, GitHub, and CI/CD workflows.
 - 📊 Familiar with **Relational and NoSQL databases** like MySQL, PostgreSQL, and MongoDB.
