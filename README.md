@@ -67,13 +67,11 @@ I'm a passionate and results-driven **Full Stack Developer** with over **8 years
 
 ### 🌐 Visit My Portfolio
 
-**🚀 [Live Portfolio](https://portfolio-by-ashik.netlify.app/)**  
+**🚀 [Live Portfolio](#)**  
 (Replace with your own portfolio hosting link when ready.)
 
 ---
 
 ## 📈 GitHub Stats (Optional)
 
-```md
 ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=idarshandalwadi&show_icons=true&theme=default)
-```
