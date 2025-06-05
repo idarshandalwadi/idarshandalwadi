@@ -20,6 +20,7 @@
   * 🌱 Worked with service-based and product-based organisation.
   * 🚀 Fully interested in cutting-edge technologies including, Spring Boot, Microservices, Flutter, and sometimes with
   embedded(electronic items) as well.
+
   <div align="left">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </div>
@@ -64,7 +65,7 @@
 		<img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="Darshan Dalwadi" height="26" width="35" />
 	</a>
 
-    <a href="https://instagram.com/alright.abhi" target="blank">
+    <a href="https://darshan-dalwadi.medium.com/" target="blank">
 		<img align="center" src="https://www.svgrepo.com/show/510068/medium.svg" alt="alright.abhi" height="30" width="40" />
 	</a>
 
@@ -77,7 +78,7 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </div>
 
-
+</div>
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshandalwadi&layout=donut-vertical&show_icons=true&theme=radical)
