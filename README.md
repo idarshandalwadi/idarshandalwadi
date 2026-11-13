@@ -64,7 +64,7 @@ Open to full-stack and product engineering roles.
 
 ---
 
-## Projects
+## Selected work
 
 | Project | What it does |
 | --- | --- |
@@ -72,17 +72,30 @@ Open to full-stack and product engineering roles.
 | **[Sales invoice extraction](https://github.com/idarshandalwadi/sales_pdf_extraction)** | Reads sales invoices and summarizes items sold and returned. |
 | **[RAG over documents and SQL](https://github.com/idarshandalwadi/pdf-reader-rag-pipeline)** | Retrieval demos over [PDF files](https://github.com/idarshandalwadi/pdf-reader-rag-pipeline) and a [MySQL database](https://github.com/idarshandalwadi/rag-pipeline-for-db), using a local LLM. |
 | **[GraphQL with Spring Boot](https://github.com/idarshandalwadi/graphql-demo)** | A Spring Boot service queried through GraphQL. |
+| **[Authentication in NestJS](https://github.com/idarshandalwadi/authentication-in-nest)** | JWT issuance and route guards in a NestJS API. |
 
 A longer view of the same work is on **[darshandalwadi.info](https://darshandalwadi.info)**.
 
 ---
 
+## GitHub
 
+<p align="center">
+  <a href="https://github.com/idarshandalwadi">
+    <img height="180" alt="GitHub stats for Darshan Dalwadi" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=idarshandalwadi&show_icons=true&theme=default&rank_icon=percentile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/idarshandalwadi">
+    <img height="180" alt="Most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=idarshandalwadi&layout=compact&theme=default&langs_count=6&hide=javascript" />
+  </a>
+</p>
+
+---
 
 ## Contact
 
-- **Email** — [dalwadidarshan83@gmail.com](mailto:dalwadidarshan83@gmail.com)
-- **Phone** — [+91 91735 77047](tel:+919173577047)
-- **LinkedIn** — [darshan-dalwadi](https://www.linkedin.com/in/darshan-dalwadi/)
-- **Medium** — [darshan-dalwadi.medium.com](https://darshan-dalwadi.medium.com/)
-- **Portfolio** — [darshandalwadi.info](https://darshandalwadi.info)
+- 📧 **Email** — [dalwadidarshan83@gmail.com](mailto:dalwadidarshan83@gmail.com)
+- 📞 **Phone** — [+91 91735 77047](tel:+919173577047)
+- 💼 **LinkedIn** — [darshan-dalwadi](https://www.linkedin.com/in/darshan-dalwadi/)
+- ✍️ **Medium** — [darshan-dalwadi.medium.com](https://darshan-dalwadi.medium.com/)
+- 🌐 **Portfolio** — [darshandalwadi.info](https://darshandalwadi.info)
