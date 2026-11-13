@@ -72,7 +72,6 @@ Open to full-stack and product engineering roles.
 | **[Sales invoice extraction](https://github.com/idarshandalwadi/sales_pdf_extraction)** | Reads sales invoices and summarizes items sold and returned. |
 | **[RAG over documents and SQL](https://github.com/idarshandalwadi/pdf-reader-rag-pipeline)** | Retrieval demos over [PDF files](https://github.com/idarshandalwadi/pdf-reader-rag-pipeline) and a [MySQL database](https://github.com/idarshandalwadi/rag-pipeline-for-db), using a local LLM. |
 | **[GraphQL with Spring Boot](https://github.com/idarshandalwadi/graphql-demo)** | A Spring Boot service queried through GraphQL. |
-| **[Authentication in NestJS](https://github.com/idarshandalwadi/authentication-in-nest)** | JWT issuance and route guards in a NestJS API. |
 
 A longer view of the same work is on **[darshandalwadi.info](https://darshandalwadi.info)**.
 
