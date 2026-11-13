@@ -64,7 +64,7 @@ Open to full-stack and product engineering roles.
 
 ---
 
-## Selected work
+## Projects
 
 | Project | What it does |
 | --- | --- |
@@ -77,25 +77,7 @@ A longer view of the same work is on **[darshandalwadi.info](https://darshandalw
 
 ---
 
-## GitHub
 
-<p align="center">
-  <a href="https://github.com/idarshandalwadi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=idarshandalwadi&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=c9d1d9&icon_color=58a6ff&rank_icon=percentile" />
-      <img height="175" alt="GitHub stats for Darshan Dalwadi" src="https://github-readme-stats.vercel.app/api?username=idarshandalwadi&show_icons=true&hide_border=true&bg_color=00000000&title_color=111827&text_color=374151&icon_color=2563eb&rank_icon=percentile" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/idarshandalwadi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=idarshandalwadi&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=c9d1d9&langs_count=6" />
-      <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idarshandalwadi&layout=compact&hide_border=true&bg_color=00000000&title_color=111827&text_color=374151&langs_count=6" />
-    </picture>
-  </a>
-</p>
-
----
 
 ## Contact
 
